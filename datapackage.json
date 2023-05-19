@@ -138,7 +138,7 @@
       "hash": "df350226d792f4656c654087984708c1",
       "mediatype": "text/csv",
       "name": "__os_imported__frankfurt-budget",
-      "path": "https://storage.openspending.org/__os_imported__frankfurt-budget.csv",
+      "path": "https://storage.openspending.org/city-of-frankfurt-expenditure/__os_imported__frankfurt-budget.csv",
       "schema": {
         "fields": [
           {
