@@ -4,6 +4,10 @@
   "bytes": 1077333,
   "count_of_rows": 4211,
   "countryCode": "DE",
+  "fiscalPeriod": {
+     "start": "2008-01-01",
+    "end": "2016-12-31"
+  },
   "currencyCode": "EUR",
   "description": "Profit and loss budget of the City of Frankfurt, Germany.",
   "hash": "2aa1bbe2a5894ade43383a442e5879cc",
